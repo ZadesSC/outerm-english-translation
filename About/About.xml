@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Outerm English Translation</name>
-	<author>Codex</author>
+	<author>Darren Cheng</author>
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
 	<packageId>zades.outermenglishtranslation</packageId>
-	<description>English translation for [Aya]Outerm Race.
+	<description>English translation patch for [Aya] Outerm Race.
 
-The translations are done by AI (gpt-5.4). Translates the Outerm race, faction, incidents, apparel, weapons, research, hediffs, backstories, and other in-game text to English.
+This mod translates the Outerm race, xenotype content, faction text, incidents, apparel, weapons, research, hediffs, backstories, and other in-game text into English for RimWorld 1.6.
 
-Also patches the one hardcoded Japanese weapon growth message in the DLL so it displays in English.</description>
+It also includes a small compatibility DLL that fixes several hardcoded or improperly exposed strings from the original mod, including weapon growth text and Outerm skill gizmo cooldown and unlock text.</description>
 	<modDependenciesByVersion>
 		<v1.6>
 			<li>
