@@ -8,6 +8,18 @@ This repository contains:
 - A small companion DLL that fixes several strings that are hardcoded or not exposed cleanly through the original translation files.
 - A custom preview image for the translation patch.
 
+## Why This Exists
+
+The translation work in this mod was produced with the help of LLM GPT-5.4.
+
+I made this patch because the Translation mod by WRelick is not updated yet:
+
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2839446088
+
+I also needed to understand what the Outerm mod was doing while working on the Combat Extended patch in my Ayameduki CE addon:
+
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3105126426&searchtext=ayameduki
+
 ## Dependency
 
 This mod requires the original workshop mod:

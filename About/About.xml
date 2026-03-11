@@ -10,6 +10,10 @@
 
 This mod translates the Outerm race, xenotype content, faction text, incidents, apparel, weapons, research, hediffs, backstories, and other in-game text into English for RimWorld 1.6.
 
+The translation in this mod was produced with the help of LLM GPT-5.4.
+
+This patch was made because the Translation mod by WRelick is not updated yet, and I needed to understand what the Outerm mod was doing while working on the Combat Extended patch in my Ayameduki CE addon.
+
 It also includes a small compatibility DLL that fixes several hardcoded or improperly exposed strings from the original mod, including weapon growth text and Outerm skill gizmo cooldown and unlock text.</description>
 	<modDependenciesByVersion>
 		<v1.6>
