@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Outerm English Translation</name>
+	<author>Codex</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>zades.outermenglishtranslation</packageId>
+	<description>English translation for [Aya]Outerm Race.
+
+The translations are done by AI (gpt-5.4). Translates the Outerm race, faction, incidents, apparel, weapons, research, hediffs, backstories, and other in-game text to English.
+
+Also patches the one hardcoded Japanese weapon growth message in the DLL so it displays in English.</description>
+	<modDependenciesByVersion>
+		<v1.6>
+			<li>
+				<packageId>Ayameduki.HAROuterm</packageId>
+				<displayName>[Aya]Outerm Race</displayName>
+				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3675887482</steamWorkshopUrl>
+			</li>
+		</v1.6>
+	</modDependenciesByVersion>
+	<loadAfterByVersion>
+		<v1.6>
+			<li>Ayameduki.HAROuterm</li>
+		</v1.6>
+	</loadAfterByVersion>
+</ModMetaData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Outerm_Faction.label>Haos</Outerm_Faction.label>
+	<Outerm_Faction.fixedName>Haos</Outerm_Faction.fixedName>
+	<Outerm_Faction.pawnSingular>Outerm</Outerm_Faction.pawnSingular>
+	<Outerm_Faction.pawnsPlural>Outerm</Outerm_Faction.pawnsPlural>
+	<Outerm_Faction.description>A criminal syndicate of the underworld made up of Outerms.\nIt is known as an exceptionally brutal faction, and some say its savagery surpasses even the Orcinus Brigade.\nThey revel in slaughter and plunder, and do not stop their atrocities until either they or their prey are dead.\n\nAll for sweet, melting ecstasy, and in accordance with the will of their great god.</Outerm_Faction.description>
+	<Outerm_Faction_Player.pawnSingular>Outerm</Outerm_Faction_Player.pawnSingular>
+	<Outerm_Faction_Player.pawnsPlural>Outerm</Outerm_Faction_Player.pawnsPlural>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HAR_OT_Bullet_AssaultRifle_a.label>Tyrion Tofeki (bullet)</HAR_OT_Bullet_AssaultRifle_a.label>
+	<HAR_OT_Bullet_AssaultRifle_b.label>Tyrion Cannon (bullet)</HAR_OT_Bullet_AssaultRifle_b.label>
+	<HAR_OT_Weapon_Gun_a.label>Tyrion Tofeki</HAR_OT_Weapon_Gun_a.label>
+	<HAR_OT_Weapon_Gun_a.description>An assault rifle used by the Outerms.\nIt is characterized by strong armor penetration and toxin-laced ammunition.\nIts accuracy is average at any range.\nIts greatest strength is how easy it is to handle, allowing it to keep firing with short intervals between attacks.</HAR_OT_Weapon_Gun_a.description>
+	<HAR_OT_Weapon_Gun_b.label>Tyrion Cannon</HAR_OT_Weapon_Gun_b.label>
+	<HAR_OT_Weapon_Gun_b.description>An ultra-long-range sniper rifle used by the Outerms.\nIt is characterized by strong armor penetration and toxin-laced ammunition.\nIt excels at punching through enemies from far away,\nbut is poor at engaging targets up close.</HAR_OT_Weapon_Gun_b.description>
+</LanguageData>

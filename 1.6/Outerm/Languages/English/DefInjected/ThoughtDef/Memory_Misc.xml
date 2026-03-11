@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HAR_OT_Pain.stages.0.label>sense of life (faint)</HAR_OT_Pain.stages.0.label>
+	<HAR_OT_Pain.stages.0.description>A faint pain can be felt. True sensation still lies far away.</HAR_OT_Pain.stages.0.description>
+	<HAR_OT_Pain.stages.1.label>sense of life (minor)</HAR_OT_Pain.stages.1.label>
+	<HAR_OT_Pain.stages.1.description>A piercing pain runs through me. It does not feel bad.</HAR_OT_Pain.stages.1.description>
+	<HAR_OT_Pain.stages.2.label>sense of life (moderate)</HAR_OT_Pain.stages.2.label>
+	<HAR_OT_Pain.stages.2.description>A gouging pain makes my body tremble with delight.</HAR_OT_Pain.stages.2.description>
+	<HAR_OT_Pain.stages.3.label>sense of life (severe)</HAR_OT_Pain.stages.3.label>
+	<HAR_OT_Pain.stages.3.description>I am drenched in blood now! This must be what it means to truly live!</HAR_OT_Pain.stages.3.description>
+</LanguageData>
