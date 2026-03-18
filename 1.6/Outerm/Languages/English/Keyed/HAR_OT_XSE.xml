@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<HAR_OT_XSE_Title>Remains of the Hollow Void</HAR_OT_XSE_Title>
+	<HAR_OT_Interfere>Interfere</HAR_OT_Interfere>
+	<HAR_OT_XSE_InitialDesc>Before you sits a decayed machine.\nYet a faint voice can be heard from within what should be empty.\nInstinct tells you not to get involved, yet at the same time your curiosity is stirred.\n\nWhether you make contact or leave it alone is up to you.</HAR_OT_XSE_InitialDesc>
+	<HAR_OT_XSE_Contract>Make contact</HAR_OT_XSE_Contract>
+	<HAR_OT_XSE_ContractTitle>Voice from the Void</HAR_OT_XSE_ContractTitle>
+	<HAR_OT_XSE_ContractDesc>The voice now rings clearly inside your head.\n"Oh? Even a hopeless call is worth trying. Can you hear my voice?"\nThe voice was friendly, yet filled with emptiness, and it troubled you deeply.</HAR_OT_XSE_ContractDesc>
+	<HAR_OT_XSE_Status>A cheerful voice can be heard from the Remains of the Hollow Void...\n\n"From the look of it, you're having trouble out here on the frontier.\n If you're in need of power, try stuffing corpses into this decayed machine.\n Once you've gathered enough, I might be able to lend you my strength.\n As for how many corpses... hmm, about 1,000 should do?"\n\n\n\nCurrent number of corpses offered: {0}</HAR_OT_XSE_Status>
+	<HAR_OT_XSE_PointMaxTitle>Creaking Remains</HAR_OT_XSE_PointMaxTitle>
+	<HAR_OT_XSE_PointMaxDesc>The remains, fed with many corpses, groan as they shift.\n"Heh, it seems pleased. In that case, activating it should not be a problem. Could you come over here?"\nThe cheer in that voice suggests there is still another twist ahead.</HAR_OT_XSE_PointMaxDesc>
+	<HAR_OT_XSE_ReadyRitual>A cheerful voice can be heard from the Remains of the Hollow Void...\n\n"Yes, this should be enough.\n I've finished preparing a path that will let you make contact with me.\n But while the preparations are underway, the laws of the cosmos will interfere with you.\n The duration will be... 30 days. I think it will be a long fight.\n\n Whether to begin is up to you."</HAR_OT_XSE_ReadyRitual>
+	<HAR_OT_XSE_StartRitual>Activate the machine</HAR_OT_XSE_StartRitual>
+	<HAR_OT_XSE_Hold>Leave</HAR_OT_XSE_Hold>
+	<HAR_OT_XSE_RitualActiveDesc>The remains creak softly. It seems activation is not yet complete.</HAR_OT_XSE_RitualActiveDesc>
+	<HAR_OT_XSE_Msg_RitualFinished>Until activation completes</HAR_OT_XSE_Msg_RitualFinished>
+	<HAR_OT_XSE_RitualRemaining>Until activation completes</HAR_OT_XSE_RitualRemaining>
+	<HAR_OT_XSE_RitualEndTitle>Path to the Void</HAR_OT_XSE_RitualEndTitle>
+	<HAR_OT_XSE_RitualEndDesc>The remains stirred with a warped groan. It seems a path leading into the void has opened.</HAR_OT_XSE_RitualEndDesc>
+	<HAR_OT_XSE_RitualFinishedDesc>A cheerful voice can be heard from the Remains of the Hollow Void...\n\n"Good work. Thanks to your efforts, the path has finally opened.\n One person alone can come to me.\n I'll be waiting."</HAR_OT_XSE_RitualFinishedDesc>
+	<HAR_OT_XSE_IntoAbyss>Descend into the Void</HAR_OT_XSE_IntoAbyss>
+	<HAR_OT_XSE_InAbyssDesc>For now, you can call back the one who went ahead and choose someone else to make contact.</HAR_OT_XSE_InAbyssDesc>
+	<HAR_OT_XSE_ReturnFromAbyss>Call back from the Void</HAR_OT_XSE_ReturnFromAbyss>
+	<HAR_OT_XSE_PawnReturned>{0} has returned from the Void.</HAR_OT_XSE_PawnReturned>
+	<HAR_OT_Abyss_MapDissolved>The abyss dispersed and vanished completely.</HAR_OT_Abyss_MapDissolved>
+	<HAR_OT_Abyss_IdeaTitle>■■■</HAR_OT_Abyss_IdeaTitle>
+	<HAR_OT_TouchIdea>Make contact</HAR_OT_TouchIdea>
+	<HAR_OT_Abyss_IdeaDesc>"At last, we finally meet. Forgive this shadowed form.\n Right now, I can grant power to the one you guided here.\n But surely you've already begun to sense it, haven't you?\n That I am something dangerous.\n\n You have two choices.\n Form a contract and grant this one power, turning them into a fiend.\n Or reject me, remove one threat from this world, and make this one a hero.\n\n Choose whichever you like. I will respect your will."</HAR_OT_Abyss_IdeaDesc>
+	<HAR_OT_Abyss_AcceptContract>Accept the contract</HAR_OT_Abyss_AcceptContract>
+	<HAR_OT_Abyss_RejectContract>Reject the contract</HAR_OT_Abyss_RejectContract>
+	<HAR_OT_GeneratingEnding>.</HAR_OT_GeneratingEnding>
+	<HAR_OT_EndingA_Text>"You are the second person to make a contract with me this way. I look forward to our long association."\nThe instant those words were spoken, a vast power ravaged the body without mercy. The void devoured the flesh in moments, painting over humanity from within. Watching their own form change beyond recognition with a strangely detached awareness, that person quietly closed their eyes.\n\nWhen those eyelids open again, there is no guarantee they will still be human. Even so, it is still too soon for the curtain to fall on this story.\n\nSo long as one remains on this world, the actors' roles are not yet over.</HAR_OT_EndingA_Text>
+	<HAR_OT_EndingB_Text>"Then I shall withdraw from this world. Perhaps we will meet again somewhere."\nThe moment the master of the void spoke, its servants dispersed like mist and vanished into the emptiness. The Remains of the Hollow Void collapsed without a sound, and the path leading into the void was sealed forever.\n\nThe calamity that shook the world was driven away. But that does not mean the story has reached its end. Every ending always carries the first stirrings of a new beginning.\n\nDrawn by the planet's gravity, you surrendered yourself to a quiet sense of accomplishment.</HAR_OT_EndingB_Text>
+	<HAR_OT_XSE_EndingDesc>A cheerful voice can be heard from the Remains of the Hollow Void...\n\n"I have great expectations for what you'll do from here on.\n What you will achieve, whom you will kill, whom you will let live... it will be very interesting."</HAR_OT_XSE_EndingDesc>
+</LanguageData>
